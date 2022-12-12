@@ -9,4 +9,4 @@ fudge21/fudge21 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<button><h1>Explode My Profile</h1></button>
+<a><h1>Explode My Profile</h1></a>
